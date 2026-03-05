@@ -7,9 +7,9 @@ metadata:
 spec:
   group: kubevirt.io
   names:
+    kind: KubeVirt
     categories:
     - all
-    kind: KubeVirt
     plural: kubevirts
     shortNames:
     - kv
